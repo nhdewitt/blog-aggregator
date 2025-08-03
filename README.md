@@ -145,7 +145,6 @@ gator browse 10
 | `unfollow` | `<url>`        | Stop following a feed             |
 | `agg`      | `<duration>`   | Start continuous feed aggregation |
 | `browse`   | `[limit]`      | Browse your latest posts          |
-└-----------------------------------------------------------------┘
 
 ## Project Structure
 
